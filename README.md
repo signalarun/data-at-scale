@@ -14,3 +14,4 @@
 
 ## Information Architecture
  A discipline focused on making information findable and understandable.
+ - Richard Saul Wurman had coined the expression 'information architect' in 1975
