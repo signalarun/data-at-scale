@@ -11,3 +11,6 @@
  - Data consumer
 ## Ubiquitous Language 
  - An evolving common, rigorous language between developers and users.The term is used by Eric Evans in Domain Driven Design
+
+## Information Architecture
+ A discipline focused on making information findable and understandable.
