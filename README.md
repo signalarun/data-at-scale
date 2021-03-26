@@ -38,3 +38,11 @@
  + Caching
    - Affected nonfunctional requirement is throughput
  + Normalization and Denormalization
+
+## Data Modelling Methodologies
+ + Top-down methodologies
+   - Identify attributes and then move down
+ + Bottom-up methodologies
+   - Identify entities, relation and then the attributes
+
+
