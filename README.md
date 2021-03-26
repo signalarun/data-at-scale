@@ -40,9 +40,9 @@
  + Normalization and Denormalization
 
 ## Data Modelling Methodologies
+ + Boupttom- methodologies
+   - Identify attributes and then move up
  + Top-down methodologies
-   - Identify attributes and then move down
- + Bottom-up methodologies
    - Identify entities, relations and then the attributes
 
 
