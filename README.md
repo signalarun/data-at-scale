@@ -28,3 +28,13 @@
  + Varsity
  + Variety
  + Transformation
+### Data management strategies
+ + Data locality
+   - Affected nonfunctional requirement is throughput
+ + Replication
+   - Affected nonfunctional requirement is reliability
+ + Sharding and partition
+   - Distributing data across multiple different nodes, can improve performance
+ + Caching
+   - Affected nonfunctional requirement is throughput
+ + Normalization and Denormalization
