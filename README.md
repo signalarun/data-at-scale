@@ -1,4 +1,4 @@
-# data-at-scale
+# Data at scale
 
 ## Golden source
  - A defnitive source of information
