@@ -43,6 +43,6 @@
  + Top-down methodologies
    - Identify attributes and then move down
  + Bottom-up methodologies
-   - Identify entities, relation and then the attributes
+   - Identify entities, relations and then the attributes
 
 
