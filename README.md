@@ -15,3 +15,16 @@
 ## Information Architecture
  A discipline focused on making information findable and understandable.
  - Richard Saul Wurman had coined the expression 'information architect' in 1975
+
+## Data Modelling Architectures
+ + RDBMS
+ + Key-value pairs
+ + Graph oriented
+ + Column oriented
+ + NOSQL
+### Data complexity contributers
+ + Velocity
+ + Volume
+ + Varsity
+ + Variety
+ + Transformation
