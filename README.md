@@ -48,7 +48,7 @@
  + Normalization and Denormalization
 
 ### Data architecture approaches based on properties
- + Dataarehouse
+ + Datawarehouse
  + Hadoop for structured and unstructured data
  + Data lake to keep data in original form
 
