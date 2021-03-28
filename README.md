@@ -47,6 +47,11 @@
    - Affected nonfunctional requirement is throughput
  + Normalization and Denormalization
 
+### Data architecture approaches based on properties
+ + Dataarehouse
+ + Hadoop for structured and unstructured data
+ + Data lake to keep data in original form
+
 ## Data Modelling Methodologies
  + Bottom-up methodologies
    - Identify attributes and then move up
