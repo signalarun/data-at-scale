@@ -33,8 +33,16 @@
    - Affected nonfunctional requirement is throughput
  + Replication
    - Affected nonfunctional requirement is reliability
- + Sharding and partition
+ + Sharding 
    - Distributing data across multiple different nodes, can improve performance
+ + Partition
+   * Distributing data across multiple different nodes, can improve performance
+   * Partition criteria
+     - Range partitioning
+     - List partitioning
+     - Composite partitioning
+     - Round-Robin partitioning
+     - Hash partitioning
  + Caching
    - Affected nonfunctional requirement is throughput
  + Normalization and Denormalization
