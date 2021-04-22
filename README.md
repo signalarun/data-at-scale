@@ -14,6 +14,11 @@
 ## Ubiquitous Language 
  - An evolving common, rigorous language between developers and users.The term is used by Eric Evans in Domain Driven Design
 
+## Agreements used in Data applications
+ - Data delivery contracts 
+ - Data sharing agreements
+ These are stored centraly for the functioning of autonomous teams.
+
 ## Information Architecture
  A discipline focused on making information findable and understandable.
  - Richard Saul Wurman had coined the expression 'information architect' in 1975
