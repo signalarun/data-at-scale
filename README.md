@@ -4,6 +4,8 @@
  - A defnitive source of information
 ## Golden dataset
  - It denotes the original data that is created
+## Domain Data Sore (DDS)
+ - They consume, integrate and change the context of data from other systems. If DDS creates golden dataset then it becomes Golden source.
 ## Data Integration
  - Combining data from different sources
 ## Application types in the context of data
