@@ -16,8 +16,8 @@
 
 ## Agreements used in Data applications
  - Data delivery contracts 
- - Data sharing agreements
- These are stored centraly for the functioning of autonomous teams.
+ - Data sharing agreements  
+ These are stored centrally for the functioning of autonomous teams.
 
 ## Information Architecture
  A discipline focused on making information findable and understandable.
