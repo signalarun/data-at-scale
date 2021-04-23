@@ -14,6 +14,11 @@
 ## Ubiquitous Language 
  - An evolving common, rigorous language between developers and users.The term is used by Eric Evans in Domain Driven Design
 
+## Data Architectures
+ - Read-only datastore architecture
+ - API architecture
+ - Streaming architecture
+
 ## Agreements used in Data applications
  - Data delivery contracts 
  - Data sharing agreements  
