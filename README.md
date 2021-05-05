@@ -15,10 +15,14 @@
  - An evolving common, rigorous language between developers and users.The term is used by Eric Evans in Domain Driven Design
 
 ## Data Architectures
- - Read-only datastore architecture
- - API architecture
- - Streaming architecture
-
+ + Read-only datastore architecture
+ + API architecture
+ + Streaming architecture
+ + Command and Query Responsibility Segregation (CQRS) 
+   - An application design pattern
+   - Why? 
+      * Reading large volumens of data from a busy application can be risky.
+   - Solves the problem of large reads by creating a copy of data exclusively for reads
 ## Agreements used in Data applications
  - Data delivery contracts 
  - Data sharing agreements  
